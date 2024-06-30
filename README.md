@@ -1,2 +1,2 @@
 # D277
-D277 Task 2
+Front-End Web Development - Task 2
